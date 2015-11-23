@@ -1,0 +1,13 @@
+{
+    "name": "danharper/jsonx-viewer",
+    "require": {
+        "danharper/jsonx": "^0.1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dan Harper",
+            "email": "hello@dans.email"
+        }
+    ]
+}
